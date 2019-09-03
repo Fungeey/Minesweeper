@@ -11,7 +11,7 @@ This remake of [Minesweeper](https://en.wikipedia.org/wiki/Minesweeper_(video_ga
 ### Controls
 - **X**: Flag cell
 - **Z**: Open cell / select
-- **X** and **Z**: Chord (Reveal all covered mines around a certain cell)
+- **X** and **Z**: Chord (Reveal all non-bomb cells around a certain cell if the number of flags adjacent to that cell is equal to it's number)
 
 ### Installation
 Run the .jar file to start Minesweeper.
